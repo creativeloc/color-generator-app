@@ -1,6 +1,6 @@
 const SingleColor = ({ index, color }) => {
   const { hex, weight } = color
-  console.log(color)
+  // console.log(color)
 
   return (
     <article
